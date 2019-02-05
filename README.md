@@ -37,6 +37,10 @@ Else, if you are starting fresh you can start off a new project with:
 This will create a `Makefile` for you with `.tf.makefile` included.
 
 
+> NOTE, for Mac OS users, `gnu-make` and `gnu-sed` will be required for full
+> compatibility. These can be installed easily via homebrew.
+
+
 &nbsp;
 
 ---
@@ -507,4 +511,3 @@ current SSH session you are about to begin.
 
 [splash]: https://s3.amazonaws.com/assets.github.com/splash-.tf.makefile.svg
 [tfmakefile]: .tf.makefile
-
